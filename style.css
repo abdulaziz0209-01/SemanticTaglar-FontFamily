@@ -1,0 +1,38 @@
+header{
+    height: 50px;
+    background-color: #282829;
+    display: flex;
+    justify-content: space-around;
+   align-items: center;
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+.container{
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+    color: #fff;
+    margin-right: 200px;
+    gap: 50px;
+}
+h1{
+    width: 743px;
+    height: 186px;
+    text-align: center;
+    font-size: 70px;
+    margin-left: 250px;
+}
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+footer{
+    height: 50px;
+    background-color: #282829;
+    display: flex;
+    justify-content: space-around;
+   align-items: center;
+}
